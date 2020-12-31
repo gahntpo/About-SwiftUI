@@ -106,6 +106,7 @@ _🌟 most interesting_
 * **[SwiftUI Quick Start Guide with iOS 13 and Xcode 11](https://www.udemy.com/swiftui-quick-start-guide-with-ios-13-and-xcode-11/?couponCode=JUANGITHUB)** . by [DevTechie Interactive](https://www.udemy.com/user/anoop-tomar/)
 * **🇨🇳[SwiftUI 中文教程 - SwiftUI-Tutorials](https://github.com/WillieWangWei/SwiftUI-Tutorials)**. by [WillieWangWei](https://github.com/WillieWangWei)
 * **[SwiftUI - The Complete Developer Course](https://www.udemy.com/share/102VaMAkofc1pbRHo=/)**. by [Stephen DeStefano](linkedin.com/in/stephen-destefano-973583193)
+* **[SwiftUI - built a real world application using Core Data](https://www.udemy.com/course/swiftui-built-a-real-world-application-using-core-data/?referralCode=A909B32DE438B3BE9A9A)**. by [Karin Prater](https://github.com/gahntpo)
 
 #### 📰 Articles
 * **[SwiftUI by Example](https://www.hackingwithswift.com/quick-start/swiftui)** by [Hacking with Swift](https://twitter.com/twostraws)
